@@ -5,7 +5,6 @@ import {
   FaTwitter,
   FaLinkedinIn,
   FaReact,
-  FaGithub,
 } from "react-icons/fa";
 import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 
